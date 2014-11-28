@@ -1,3 +1,13 @@
+/*
+ * Copyright (c) 2014 Kyle W. Harrigan
+ * 
+ * Licensed under MIT License.
+ * 
+ * The above copyright notice and LICENSE file shall be included in all
+ * copies or substantial portions of the Software.
+ * 
+ */
+
 module babygate_latch()
 
 {
