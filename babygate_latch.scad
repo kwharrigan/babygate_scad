@@ -39,7 +39,7 @@ module babygate_latch()
 
 	// catch
 	translate([65, 0, 50])
-	cube([10, 40, 10], center=true);
+	cube([10, 40, 30], center=true);
 
 }
 scale([0.1, 0.1, 0.1]) // to mm
